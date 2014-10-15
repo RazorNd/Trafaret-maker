@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/pict">
+        <file alias="clear">bin-empty_2730.png</file>
+        <file alias="save">disc-floopy_3852.png</file>
+        <file alias="clipboard">comment_3457.png</file>
+    </qresource>
+</RCC>
